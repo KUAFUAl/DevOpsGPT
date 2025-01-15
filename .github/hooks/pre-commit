@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashs
 
 # Check for updates to files ending with "pro.py"
 if git diff --cached --name-only | grep -E 'pro.py'; then
