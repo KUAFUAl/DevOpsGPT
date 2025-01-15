@@ -104,7 +104,4 @@ As an autonomous experiment, DevOpsGPT may generate content or take actions that
 
 By using DevOpsGPT, you agree to indemnify, defend, and hold harmless the developers, contributors, and any affiliated parties from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from your use of this software or your violation of these terms.
 
-## Reference project
-- https://github.com/Significant-Gravitas/Auto-GPT
-- https://github.com/AntonOsika/gpt-engineer
-- https://github.com/hwchase17/langchain
+
