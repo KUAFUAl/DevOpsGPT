@@ -6,9 +6,9 @@
 <a href="docs/README_CN.md"><img src="docs/files/%E6%96%87%E6%A1%A3-%E4%B8%AD%E6%96%87%E7%89%88-blue.svg" alt="CN doc"></a>
 <a href="README.md"><img src="docs/files/document-English-blue.svg" alt="EN doc"></a>
 <a href="docs/README_JA.md"><img src="docs/files/ドキュメント-日本語-blue.svg" alt="JA doc"></a>
-<a href="http://www.kuafuai.net"><img src="docs/files/%E5%AE%98%E7%BD%91-%E4%BC%81%E4%B8%9A%E7%89%88-purple.svg" alt="EN doc"></a>
-<a href="docs/CONTACT.md"><img src="docs/files/WeChat-%E5%BE%AE%E4%BF%A1-green.svg" alt="roadmap"></a>
-<a href="https://x.com/DevOpsGPT"><img src="https://img.shields.io/badge/Twitter-DevOpsGPT-blue" alt="Twitter"></a>
+
+
+
 </p>
 
 ### 💡 Get Help - [Q&A](https://github.com/kuafuai/DevOpsGPT/issues) 
