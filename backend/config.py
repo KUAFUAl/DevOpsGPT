@@ -16,7 +16,7 @@ def read_config(key):
         input("Press Enter to exit...")
         exit()
 
-    return value
+    
 
 REQUIREMENT_STATUS_NotStarted = "NotStarted"
 REQUIREMENT_STATUS_InProgress = "InProgress"
