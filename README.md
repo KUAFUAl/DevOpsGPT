@@ -13,7 +13,6 @@
 
 ### 💡 Get Help - [Q&A](https://github.com/kuafuai/DevOpsGPT/issues) 
 ### 💡 Submit Requests - [Issue](https://github.com/kuafuai/DevOpsGPT/discussions)
-### 💡 Technical exchange - service@kuafuai.net
 
 <hr/>
 
