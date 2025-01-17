@@ -31,12 +31,6 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 - [Enterprise Edition] Professional model selection: Support language model services stronger than GPT in the professional field to better complete requirements development tasks, and support private deployment.
 - [Enterprise Edition] Support more DevOps platforms: can connect with more DevOps platforms to achieve the development and deployment of the whole process.
 
-## Demo（Click to play video）
-
-1. <a href="https://www.youtube.com/watch?v=KGeWgM6HzR4" target="_blank">DevOpsGPT Vision video</a>
-2. <a href="https://www.youtube.com/watch?v=3peUJeB_afo" target="_blank">Demo - Software development and deployment to Cloud</a>
-3. <a href="https://www.youtube.com/watch?v=IWUPbGrJQOU" target="_blank">Demo - Develop an API for adding users in Java SpringBoot</a>
-
 
 ## Workflow
 Through the above introduction and Demo demonstration, you must be curious about how DevOpsGPT achieves the entire process of automated requirement development in an existing project. Below is a brief overview of the entire process:
